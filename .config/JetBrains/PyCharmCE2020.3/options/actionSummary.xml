@@ -1,0 +1,55 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="CommentByLineComment">
+      <i c="5" l="1612883677697" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="5" l="1612883693638" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1612883654308" />
+    </e>
+    <e n="EditorUp">
+      <i c="5" l="1612883652690" />
+    </e>
+    <e n="ImportSettings">
+      <i c="2" l="1612879335251" />
+    </e>
+    <e n="Resume">
+      <i c="5" l="1612883679703" />
+    </e>
+    <e n="ShowSettings">
+      <i c="5" l="1612883606802" />
+    </e>
+    <e n="WelcomeScreen.Configure.Import">
+      <i c="2" l="1612875348952" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1612878005136" />
+    </e>
+    <e n="com.intellij.ide.ReopenProjectAction">
+      <i c="9" l="1612883584817" />
+    </e>
+    <e n="com.intellij.ide.plugins.PluginManagerMain$2">
+      <i c="1" l="1612879238855" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="3" l="1612883667264" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.KeymapImplKt$notifyAboutMissingKeymap$1$projectOpened$1$action$2">
+      <i c="1" l="1612878510546" />
+    </e>
+    <e n="com.intellij.openapi.updateSettings.impl.UpdateChecker$showUpdateResult$5$1">
+      <i c="1" l="1612879209953" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.ToolWindowHeader$HideAction">
+      <i c="1" l="1612878604732" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.welcomeScreen.WelcomeScreenComponentFactory$3">
+      <i c="2" l="1612875296770" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1612879534775" />
+    </e>
+  </component>
+</application>

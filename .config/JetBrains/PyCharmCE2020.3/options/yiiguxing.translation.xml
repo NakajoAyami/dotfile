@@ -1,0 +1,19 @@
+<application>
+  <component name="AppStorage">
+    <histories>
+      <item value="Type of default context -- underlying context can be set at most once" />
+      <item value="&lt;&lt;&lt; PictorialBar Chart &gt;&gt;&gt; PictorialBar is a histogram that can set various figurative graphic elements (such as images, S" />
+      <item value="presents categorical" />
+      <item value="categorical" />
+      <item value="class" />
+      <item value="&lt;&lt;&lt; Bar Chart &gt;&gt;&gt; Bar chart presents categorical data with rectangular bars with heights or lengths proportional to the values that they represent." />
+      <item value="Bar" />
+    </histories>
+    <option name="languageScores">
+      <map>
+        <entry key="CHINESE" value="6" />
+        <entry key="ENGLISH" value="7" />
+      </map>
+    </option>
+  </component>
+</application>

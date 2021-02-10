@@ -1,0 +1,5 @@
+#wallpaper
+feh --bg-fill --randomize /home/ayami/图片/Wallpaper/*
+
+#picom
+picom -f &

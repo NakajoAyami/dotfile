@@ -1,0 +1,51 @@
+<application>
+  <component name="NotRoamableUiSettings">
+    <option name="fontFace" value="Source Code Pro Medium" />
+  </component>
+  <component name="ProjectPluginTrackerManager">
+    <option name="trackers">
+      <map>
+        <entry key="1RQcMBlRbHH2bqQL6lZFyZNcXDV">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="InstalledPluginsSearchHistory" value="inter" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="PyCharm.InitialConfiguration" value="true" />
+    <property name="PyCharm.InitialConfiguration.V2" value="true" />
+    <property name="PyCharm.InitialConfiguration.V3" value="true" />
+    <property name="PyCharm.InitialConfiguration.V4" value="true" />
+    <property name="PyCharm.InitialConfiguration.V5" value="true" />
+    <property name="PyCharm.InitialConfiguration.V6" value="true" />
+    <property name="PyCharm.InitialConfiguration.V7" value="true" />
+    <property name="SettingsSearchHistory" value="inter" />
+    <property name="appcds.runOnSecondStart" value="PC-203.7148.72-2ad1932369c13cbd7b0d0b42de0ff9bf1f481fb2a61b2cf67a9aa4488e862d87" />
+    <property name="cn.yiiguxing.plugin.translate.version" value="3.0.1" />
+    <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
+    <property name="file.chooser.recent.files" value="$APPLICATION_CONFIG_DIR$/Pycharm_settings.zip&#10;/home/ayami/Soft/IDE/JetBrains/PyCharmCE/PythonProjects/test" />
+    <property name="file.gist.reindex.count" value="4022" />
+    <property name="fileTypeChangedCounter" value="1" />
+    <property name="got.it.tooltip.reader.mode.got.it" value="1" />
+    <property name="ide.memory.adjusted" value="true" />
+    <property name="ide.updates.previous.build.number" value="PC-203.7148.72" />
+    <property name="last_opened_file_path" value="$APPLICATION_CONFIG_DIR$/Pycharm_settings.zip" />
+    <property name="tasks.pass.word.conversion.enforced" value="true" />
+  </component>
+  <component name="PyTestFrameworkService">
+    <option name="SDK_TO_PYTEST">
+      <map>
+        <entry key="/usr/bin/python3.9" value="false" />
+      </map>
+    </option>
+    <option name="SDK_TO_TRIALTEST">
+      <map>
+        <entry key="/usr/bin/python3.9" value="true" />
+      </map>
+    </option>
+  </component>
+</application>
