@@ -1,6 +1,8 @@
 <application>
   <component name="NotRoamableUiSettings">
-    <option name="fontFace" value="Source Code Pro Medium" />
+    <option name="fontFace" value="JetBrains Mono" />
+    <option name="fontScale" value="1.0" />
+    <option name="fontSize" value="16" />
   </component>
   <component name="ProjectPluginTrackerManager">
     <option name="trackers">
@@ -10,12 +12,154 @@
             <ProjectPluginTrackerState />
           </value>
         </entry>
+        <entry key="1V43BVmgHPPTafCnlRII8zvdfoa">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1V6erTILwRiMkjQm90ln9Kjv6gh">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VEzPpDbSNGcXq8TapFmLKTztI4">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VIAxoFB2RgOwQ7QHhtQOBeBPpd">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VJsq2T29XsKlzzfOLbd7tajikU">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VQ5xsNrHmkbz8biOVwxXL2DoFd">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VSljsHCan5sujbj2Hqao9m7iyN">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VTR4Sw7942lsY7A0AL58xIwsiH">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VVfcaTcRPRfdfVJprkowNPLZBs">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VVpvTxykksp6b8qWiEJdu3EA4g">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1VYnr6lM7YbADtNYu8eYcTPp4lV">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1X0fNmDHPHysrlDHG8NnA4JeWqQ">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1XN107P4ZGGYsZOryErEzZQjk23">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1XdyGlyIb3nZt0CQHG0O00uqXb4">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHUrm7QC57vFkyHjy7zj9FD2Cy">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHV22XXVeyZ2C6cwEf25CjIY3x">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHV26xX4hbjYxzemZJ5xExNciQ">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHV2Af71plRLWGzOsVwfVHytIp">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHV2f4zpPOeg26FaWNjhGbBtQo">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHV3BOWMFli9cmw9DUp6fne1V6">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVE55y1Q47EOavltOSRls8QPz">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVE9yRBj03RZfAzgQ0J5uzuD2">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVEFuKC0IresJMtScGKCwGXBc">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVEO3GcWtjIecGc1Piy2dGff8">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVEagw5Q4Nyf6Q76YUBk2MXnu">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVFqg5GYqAcLAxu7Z8XC0uRjA">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVG9TbmoqwrUvSZ8AOxWLnzws">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
+        <entry key="1oHVOD2w5LXsyBX1tBB6Twc0vRT">
+          <value>
+            <ProjectPluginTrackerState />
+          </value>
+        </entry>
       </map>
     </option>
   </component>
   <component name="PropertiesComponent">
-    <property name="InstalledPluginsSearchHistory" value="inter" />
-    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="FindSplitterProportion" value="0.37516513" />
+    <property name="InstalledPluginsSearchHistory" value="grep&#10;gre&#10;gr&#10;g&#10;ProgressBa" />
+    <property name="KEYMAP" value="Python File" />
+    <property name="MarketplacePluginsSearchHistory" value="grep&#10;ProgressBa&#10;Mark&#10;Mar&#10;Ma" />
     <property name="PyCharm.InitialConfiguration" value="true" />
     <property name="PyCharm.InitialConfiguration.V2" value="true" />
     <property name="PyCharm.InitialConfiguration.V3" value="true" />
@@ -24,11 +168,12 @@
     <property name="PyCharm.InitialConfiguration.V6" value="true" />
     <property name="PyCharm.InitialConfiguration.V7" value="true" />
     <property name="SettingsSearchHistory" value="inter" />
-    <property name="appcds.runOnSecondStart" value="PC-203.7148.72-2ad1932369c13cbd7b0d0b42de0ff9bf1f481fb2a61b2cf67a9aa4488e862d87" />
+    <property name="appcds.runOnSecondStart" value="PC-203.7148.72-73a5208b33e76d8bade17e9a3820f02d5541b1e42568a68f5be61a28feec8221" />
     <property name="cn.yiiguxing.plugin.translate.version" value="3.0.1" />
     <property name="experimentalFeature.terminal.shell.command.handling" value="false" />
-    <property name="file.chooser.recent.files" value="$APPLICATION_CONFIG_DIR$/Pycharm_settings.zip&#10;/home/ayami/Soft/IDE/JetBrains/PyCharmCE/PythonProjects/test" />
-    <property name="file.gist.reindex.count" value="4022" />
+    <property name="export.settings.path" value="$APPLICATION_CONFIG_DIR$/Pycharm_settings.zip" />
+    <property name="file.chooser.recent.files" value="$APPLICATION_CONFIG_DIR$/Pycharm_settings.zip&#10;/home/ayami/Soft/IDE/JetBrains/PyCharmCE/PythonProjects/YiQing&#10;/home/ayami/Soft/IDE/JetBrains/PyCharmCE/PythonProjects/test" />
+    <property name="file.gist.reindex.count" value="8095" />
     <property name="fileTypeChangedCounter" value="1" />
     <property name="got.it.tooltip.reader.mode.got.it" value="1" />
     <property name="ide.memory.adjusted" value="true" />
