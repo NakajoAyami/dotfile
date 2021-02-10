@@ -25,39 +25,39 @@ README
 			$ npm install -g alacritty-themes
 			$ alacritty-themes
 			```
-	6. **tmux**
+	5. **tmux**
 		- config use [.tmux](https://github.com/gpakosz/.tmux)
-	7. **zsh**
+	6. **zsh**
 		- 
-	8. **zinit**
+	7. **zinit**
 		- plugin manager for zsh
-	9. **powerlevel10k**
+	8. **powerlevel10k**
 		- Install
 			I use zinit install all zsh plugins,see my ***.zshrc*** file
 		- More Infomation -> [zinit](https://github.com/zdharma/zinit)
-	11. **feh**
+	9. **feh**
 		- 
-	12. **picom**
+	10. **picom**
 		- 
-	13. **ranger**
+	11. **ranger**
 		- 
-	14. **bashtop**
+	12. **bashtop**
 		- 
-	15. **htop**
+	13. **htop**
 		- 
-	16. **neofetch**
+	14. **neofetch**
 		- 
-	17. **cmatrix**
+	15. **cmatrix**
 		- 
-	18. **flameshot**
+	16. **flameshot**
 		- 
-	19. **joplin-desktop**
+	17. **joplin-desktop**
 		- 
-	20. **netease-cloud-music**
+	18. **netease-cloud-music**
 		- 
-	21. **wps-office-cn**
+	19. **wps-office-cn**
 		- 
-	22. **PyCharm**
+	20. **PyCharm**
 		- 
-	23. **kite**
+	21. **kite**
 		- 
