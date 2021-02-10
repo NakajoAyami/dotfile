@@ -3,7 +3,7 @@ README
 # <center>My ArchLinux dotflie</center>
 
 - ## ScreenShot
-![screenshot_000.png](../_resources/766094f75c334a9bbdfec8e2797e30ec.png)
+![screenshot_000.png](./screenshotpng)
 
 - ## Used packages
 	0. **bspwm** 
