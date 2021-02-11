@@ -41,6 +41,9 @@ zinit snippet OMZ::plugins/sudo/sudo.plugin.zsh
 zinit ice depth=1; 
 zinit light romkatv/powerlevel10k
 
+#autojump for ranger
+zinit load fdw/ranger_autojump
+
 #End
 #########################################################################
 
@@ -247,7 +250,14 @@ alias myip="curl http://ipecho.net/plain; echo"
 alias logs="find /var/log -type f -exec file {} \; | grep 'text' | cut -d' ' -f1 | sed -e's/:$//g' | grep -v '[0-9]$' | xargs tail -f"
 alias folders='find . -maxdepth 1 -type d -print0 | xargs -0 du -sk | sort -rn'
 alias grep='grep --color=auto'
+
+#-----------------------My own alias----------------------#
+#--------------------------Start--------------------------#
 alias la='ls -al'
+alias ra='ranger'
+
+
+#---------------------------End---------------------------#
 
 ### Bind keys
 #############
@@ -347,4 +357,8 @@ source /usr/share/zsh/plugins/zsh-syntax-highlighting/zsh-syntax-highlighting.zs
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
 
+#pip Upgrade
 export PATH=/home/ayami/.local/bin:$PATH
+
+#autojump
+. /usr/share/autojump/autojump.zsh

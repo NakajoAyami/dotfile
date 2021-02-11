@@ -61,17 +61,17 @@ font:
   # The normal (roman) font face to use.
   # Style can be specified to pick a specific face.
   normal:
-    family: "Source Code Pro"
+    family: "JetBrains Mono"
     style: Retina
 
   # The bold font face
   bold:
-    family: "Source Code Pro"
+    family: "JetBrains Mono"
     style: Bold
 
   # The italic font face
   italic:
-    family: "Source Code Pro"
+    family: "JetBrains Mono"
     style: "Italic"
 
   # Point size of the font
@@ -399,7 +399,7 @@ cursor:
 
   # If this is `true`, the cursor will be rendered as a hollow box when the
   # window is not focused.
-  unfocused_hollow: false
+  unfocused_hollow: true
 
 # dynamic_title: false
 # Live config reload (changes require restart)
