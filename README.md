@@ -18,15 +18,15 @@ README
 	4. **rofi**
 		- theme
 		Use [rofi-themes](https://github.com/davatorium/rofi-themes)
-	5. **alacritty**
-		- theme
+	5. ~~**alacritty**~~(no longer used, use Kitty instead)
+		~~- theme!
 		Use [alacritty-themes](https://github.com/eendroroy/alacritty-theme)
 			- How to install
 			```
 			$ yay -S npm
 			$ npm install -g alacritty-themes
 			$ alacritty-themes
-			```
+			```~~
 	6. **tmux**
 		- config use [.tmux](https://github.com/gpakosz/.tmux)
 	7. **zsh**
@@ -72,3 +72,7 @@ README
 		$ echo ". /usr/share/autojump/autojump.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
 		$ source .zshrc
 		```
+	24. **kitty**
+		- theme
+		use [kitty-themes](https://github.com/dexpota/kitty-themes)
+		
