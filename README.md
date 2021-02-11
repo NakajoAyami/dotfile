@@ -61,3 +61,9 @@ README
 		- 
 	22. **kite**
 		- 
+       23. **autojump** 
+	```
+	$ yay -S autojump
+	$ echo ". /usr/share/autojump/autojump.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+	$ source .zshrc
+	```
