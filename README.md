@@ -75,4 +75,4 @@ README
 	24. **kitty**
 		- theme
 		use [kitty-themes](https://github.com/dexpota/kitty-themes)
-		
+	25. **firefox**	

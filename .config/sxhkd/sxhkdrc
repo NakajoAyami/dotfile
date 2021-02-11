@@ -8,6 +8,14 @@ super + Return
 
 # program launcher
 
+#google-chrome
+alt + g
+	google-chrome-stable
+
+#firefox
+alt + f
+	firefox
+
 #rofi
 super + space
 	rofi -show drun -theme flamingo
