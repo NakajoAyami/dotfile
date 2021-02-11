@@ -1,5 +1,7 @@
 README
 
+README
+
 # <center>My ArchLinux dotflie</center>
 
 - ## ScreenShot
@@ -40,7 +42,9 @@ README
 	11. **picom**
 		- 
 	12. **ranger**
-		- 
+		- plugins
+			1. autojump
+			2. 
 	13. **bashtop**
 		- 
 	14. **htop**
@@ -61,3 +65,10 @@ README
 		- 
 	22. **kite**
 		- 
+	23. **autojump**
+		- 
+		```
+		$ yay -S autojump
+		$ echo ". /usr/share/autojump/autojump.zsh" >> ${ZDOTDIR:-$HOME}/.zshrc
+		$ source .zshrc
+		```
