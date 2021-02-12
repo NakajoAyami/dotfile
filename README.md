@@ -1,12 +1,8 @@
-README
-
-README
-
 # <center>My ArchLinux dotflie</center>
 
 - ## ScreenShot
 ![screenshot_000.png](./screenshot.png)
-
+![polybar](./polybar.png)
 - ## Used packages
 	1. **bspwm** 
 		- 
@@ -15,6 +11,10 @@ README
 	3. **polybar**
 		- theme
 		Use [polybar-themes](https://github.com/adi1090x/polybar-themes)
+		- scripts
+		**openweathermap-fullfeatured**
+			1. You need to put the Weather-Icons folder in your system font folder.In my system, it's in `/usr/share/fonts`
+			2. see more scripts->[polybar-scripts](https://github.com/polybar/polybar-scripts)
 	4. **rofi**
 		- theme
 		Use [rofi-themes](https://github.com/davatorium/rofi-themes)
@@ -43,8 +43,7 @@ README
 		- 
 	12. **ranger**
 		- plugins
-			1. autojump
-			2. 
+			1. autojump 
 	13. **bashtop**
 		- 
 	14. **htop**
