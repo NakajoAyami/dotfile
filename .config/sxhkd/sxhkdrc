@@ -33,8 +33,8 @@ alt + p
 	sh /home/ayami/Soft/IDE/JetBrains/PyCharmCE/bin/pycharm.sh
 
 #Clion
-#alt + c
-#	sh /home/ayami/Soft/IDE/JetBrains/Clion/
+alt + c
+	sh /home/ayami/Soft/IDE/JetBrains/CLion/bin/clion.sh
 
 #netease-cloud-music
 alt + m
