@@ -30,11 +30,15 @@ alt + k
 
 #PyCharmCE
 alt + p
-	sh /home/ayami/Soft/IDE/JetBrains/PyCharmCE/bin/pycharm.sh
+	sh /home/ayami/Soft/IDE/JetBrains/PyCharm/bin/pycharm.sh
 
 #Clion
 alt + c
 	sh /home/ayami/Soft/IDE/JetBrains/CLion/bin/clion.sh
+
+#DataGrip
+alt + d
+	sh /home/ayami/Soft/IDE/JetBrains/DataGrip/bin/datagrip.sh
 
 #netease-cloud-music
 alt + m
