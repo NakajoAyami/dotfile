@@ -3,3 +3,9 @@ feh --bg-fill --randomize /home/ayami/图片/Wallpaper/*
 
 #picom
 picom -f &
+
+export GTK_IM_MODULE=fcitx
+export QT_IM_MODULE=fcitx
+export XMODIFIERS=“@im=fcitx”
+
+fcitx &

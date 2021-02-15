@@ -362,3 +362,4 @@ export PATH=/home/ayami/.local/bin:$PATH
 
 #autojump
 . /usr/share/autojump/autojump.zsh
+
