@@ -62,7 +62,7 @@
 		- 
 	21. **PyCharm**
 		- 
-	22. **kite**
+	22. ~~**kite**~~
 		- 
 	23. **autojump**
 		- 
@@ -75,3 +75,9 @@
 		- theme
 		use [kitty-themes](https://github.com/dexpota/kitty-themes)
 	25. **firefox**	
+		- 
+	26. **aiXcoder**
+		- 
+	27. **sogoupinyin**
+		- 
+	28. **vlc**
