@@ -31,7 +31,7 @@ unclutter --ignore-scrooling &
 bspc rule -a Google-chrome desktop='^2'
 bspc rule -a firefox desktop='^2'
 bspc rule -a netease-cloud-music desktop='^10' state=floating
-bspc rule -a Joplin desktop='^6'
+bspc rule -a Typora desktop='^6'
 bspc rule -a Kite desktop='^3' state=floating
 #pycharm community
 #bspc rule -a jetbrains-pycharm-ce desktop='^3'

@@ -8,43 +8,39 @@ super + Return
 
 # program launcher
 
-#google-chrome
+# google-chrome
 alt + g
 	google-chrome-stable
 
-#firefox
+# firefox
 alt + f
 	firefox
 
-#rofi
+# rofi
 super + space
 	rofi -show drun -theme flamingo
 
-#Joplin
-alt + j
-	joplin-desktop
+# Typora
+alt + t
+	typora
 
-#Kite
-alt + k
-	sh /home/ayami/.local/share/kite/kited	
-
-#PyCharmCE
+# PyCharm
 alt + p
 	sh /home/ayami/Soft/IDE/JetBrains/PyCharm/bin/pycharm.sh
 
-#Clion
+# Clion
 alt + c
 	sh /home/ayami/Soft/IDE/JetBrains/CLion/bin/clion.sh
 
-#DataGrip
+# DataGrip
 alt + d
 	sh /home/ayami/Soft/IDE/JetBrains/DataGrip/bin/datagrip.sh
 
-#netease-cloud-music
+# netease-cloud-music
 alt + m
 	netease-cloud-music
 
-#flameshot
+# flameshot
 ctrl + alt + a
 	flameshot gui
 
