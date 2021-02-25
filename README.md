@@ -25,15 +25,18 @@
   	- theme
   	Use [rofi-themes](https://github.com/davatorium/rofi-themes)
   	
-  5. ~~**alacritty**~~(no longer used, use Kitty instead)
-  	~~- theme!
-  	Use [alacritty-themes](https://github.com/eendroroy/alacritty-theme)
-  		- How to install
-  		```
-  		$ yay -S npm
-  		$ npm install -g alacritty-themes
-  		$ alacritty-themes
-  		```~~
+  5. ~~**alacritty**~~
+  	
+  	- ~~theme!~~
+  	  ~~Use [alacritty-themes](https://github.com/eendroroy/alacritty-theme)~~
+  	
+  	  	- ~~How to install~~
+  	  	
+  	  	```sh
+  	  	$ yay -S npm
+  	  	$ npm install -g alacritty-themes
+  	  	$ alacritty-themes
+  	  	```
   	
   6. **tmux**
   	
@@ -133,6 +136,5 @@
       - 
 
   29. **typora**
-  
-      - 
 
+      - 
