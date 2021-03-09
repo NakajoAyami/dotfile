@@ -25,16 +25,20 @@ alt + t
 	typora
 
 # PyCharm
-alt + p
-	sh /home/ayami/Soft/IDE/JetBrains/PyCharm/bin/pycharm.sh
+# alt + p
+#	sh /home/ayami/Soft/IDE/JetBrains/PyCharm/bin/pycharm.sh
 
 # Clion
-alt + c
-	sh /home/ayami/Soft/IDE/JetBrains/CLion/bin/clion.sh
+# alt + c
+#	sh /home/ayami/Soft/IDE/JetBrains/CLion/bin/clion.sh
 
 # DataGrip
-alt + d
-	sh /home/ayami/Soft/IDE/JetBrains/DataGrip/bin/datagrip.sh
+# alt + d
+# 	sh /home/ayami/Soft/IDE/JetBrains/DataGrip/bin/datagrip.sh
+
+# JetBrains-ToolBox
+alt + j
+	jetbrains-toolbox
 
 # netease-cloud-music
 alt + m
