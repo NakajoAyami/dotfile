@@ -363,3 +363,12 @@ export PATH=/home/ayami/.local/bin:$PATH
 #autojump
 . /usr/share/autojump/autojump.zsh
 
+#JAVA
+export JAVA_HOME=/usr/lib/jvm/java-15-jdk
+export PATH=$JAVA_HOME/bin:$PATH
+# export PATH=$JAVA_HOME/java-8-jre/jre/bin
+
+# android sdk
+export ANDROID_HOME=/home/ayami/.local/share/JetBrains/Toolbox/apps/AndroidStudio/Sdk
+export PATH=$ANDROID_HOME/tools:$PATH
+export PATH=$ANDROID_HOME/platform-tools:$PATH
